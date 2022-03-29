@@ -9,6 +9,7 @@
   <url>http://maven.apache.org</url>
   
 <properties>
+  <sonar.projectKey>pileb_jenkins-sample</sonar.projectKey>
   <sonar.organization>pileb</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
